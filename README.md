@@ -1,23 +1,23 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/sahanirohit)
 <h1 align="center">Hi 👋, I'm Rohit Sahani</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">Frontend Developer</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400" alt="Coding">
 
 
 
-- 🔭 I’m currently working on **Blog Website**
+- 🔭 I’m currently working on **Amazon Clone**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React JS, Next JS**
 
 - 👯 I’m looking to collaborate on **E-Commerce Website**
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **React JS**
 
 - 📫 How to reach me **rohitjobeis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sahanirohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahanirohit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohitsahani01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahanirohit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
